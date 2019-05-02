@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2376F5B92275F30800FF391C /* approxite.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2376F5B72275F30800FF391C /* approxite.cpp */; };
+		23DC5B4D227B50AE001CBB1F /* прогоняем тесты.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 23DC5B4B227B50AE001CBB1F /* прогоняем тесты.cpp */; };
 		23ECF0232263226B00C0AE6C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 23ECF0222263226B00C0AE6C /* main.cpp */; };
 		23ECF0352263260B00C0AE6C /* ArcGraph.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 23ECF0332263260B00C0AE6C /* ArcGraph.cpp */; };
 		23ECF03B22632A4300C0AE6C /* DSU.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 23ECF03922632A4300C0AE6C /* DSU.cpp */; };
@@ -32,6 +33,9 @@
 /* Begin PBXFileReference section */
 		2376F5B72275F30800FF391C /* approxite.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = approxite.cpp; sourceTree = "<group>"; };
 		2376F5B82275F30800FF391C /* approxite.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = approxite.hpp; sourceTree = "<group>"; };
+		23DC5B4B227B50AE001CBB1F /* прогоняем тесты.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "прогоняем тесты.cpp"; sourceTree = "<group>"; };
+		23DC5B4C227B50AE001CBB1F /* прогоняем тесты.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "прогоняем тесты.hpp"; sourceTree = "<group>"; };
+		23DC5B52227B5A04001CBB1F /* File.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = File.txt; sourceTree = "<group>"; };
 		23ECF01F2263226B00C0AE6C /* 2a */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = 2a; sourceTree = BUILT_PRODUCTS_DIR; };
 		23ECF0222263226B00C0AE6C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		23ECF0332263260B00C0AE6C /* ArcGraph.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ArcGraph.cpp; sourceTree = "<group>"; };
@@ -94,6 +98,9 @@
 				23ECF06E2263827000C0AE6C /* min_way.cpp */,
 				2376F5B82275F30800FF391C /* approxite.hpp */,
 				2376F5B72275F30800FF391C /* approxite.cpp */,
+				23DC5B4C227B50AE001CBB1F /* прогоняем тесты.hpp */,
+				23DC5B4B227B50AE001CBB1F /* прогоняем тесты.cpp */,
+				23DC5B52227B5A04001CBB1F /* File.txt */,
 				23ECF0222263226B00C0AE6C /* main.cpp */,
 			);
 			path = 2a;
@@ -162,6 +169,7 @@
 				23ECF0232263226B00C0AE6C /* main.cpp in Sources */,
 				23ECF06A226374C000C0AE6C /* normal_distr.cpp in Sources */,
 				23ECF0702263827000C0AE6C /* min_way.cpp in Sources */,
+				23DC5B4D227B50AE001CBB1F /* прогоняем тесты.cpp in Sources */,
 				23ECF03B22632A4300C0AE6C /* DSU.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

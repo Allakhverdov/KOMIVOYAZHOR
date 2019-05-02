@@ -2,6 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:2a.xcodeproj">
+      location = "group:/Users/eduard/Desktop/komi/KOMIVOYAZHOR/2a/2a/File.xib">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../../Documents/woter worm.docx">
+   </FileRef>
+   <FileRef
+      location = "self:">
    </FileRef>
 </Workspace>

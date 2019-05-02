@@ -1,10 +1,8 @@
-//
+
 //  struct_Edge.hpp
-//  2a
-//
-//  Created by Эдуард on 14.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
+
+
+//эта структура - просто представление ребра
 
 #ifndef struct_Edge_hpp
 #define struct_Edge_hpp

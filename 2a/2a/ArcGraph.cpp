@@ -1,10 +1,6 @@
 //
 //  ArcGraph.cpp
-//  2a
-//
-//  Created by Эдуард on 14.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
+
 
 #include "ArcGraph.hpp"
 
@@ -27,4 +23,23 @@ int ArcGraph::ECount() const
 std::vector<Edge> ArcGraph::GetAllEdge() const
 {
     return AllEdge;
+}
+
+void ArcGraph::Cout_in_File(std::ofstream &fout)
+{
+    std::set<std::pair<int, int>>set_;
+    for(int i = 0; i < AllEdge.size(); ++i)
+    {
+        std::pair<int, int> p_1;
+        std::pair<int, int> p_2;
+        p_1.first = AllEdge[i].from;
+        p_1.second = AllEdge[i].to;
+        p_2.first = AllEdge[i].to;
+        p_2.second = AllEdge[i].from;
+        if(!(set_.count(p_1) > 0 || set_.count(p_2) > 0))
+        {
+            set_.insert(p_2);
+            fout << "from:" << AllEdge[i].from << " to:" << AllEdge[i].to << " weight:" << AllEdge[i].weight << std::endl;
+        }
+    }
 }

@@ -1,10 +1,8 @@
 //
 //  approxite.hpp
-//  2a
-//
-//  Created by Эдуард on 28.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
+
+//через крускал найдём 2-приближение
+//через Euler найдём 1,5-приближение
 
 #ifndef approxite_hpp
 #define approxite_hpp

@@ -7,7 +7,7 @@
 //
 
 #include "DSU.hpp"
-DSU::DSU(size_t VCount)
+DSU::DSU(size_t VCount)                 //конструктор
 {
     Trees.resize(VCount);
     for(int i = 0; i < VCount; ++i)
@@ -19,7 +19,7 @@ DSU::DSU(size_t VCount)
     }
 }
 
-int DSU::FindSet(int x)
+int DSU::FindSet(int x)                         //находем корень по элементц
 {
     if (Trees[x].me != Trees[x].parent)
     {
@@ -28,7 +28,7 @@ int DSU::FindSet(int x)
     return Trees[x].parent;
 }
 
-void DSU::Link(int x_root,int y_root)
+void DSU::Link(int x_root,int y_root)       //  соединяем 2 дерева по их корням
 {
     if(Trees[x_root].rank > Trees[y_root].rank)
     {
@@ -45,7 +45,7 @@ void DSU::Link(int x_root,int y_root)
     }
 }
 
-void DSU::Union(int x,int y)
+void DSU::Union(int x,int y)            //объединяем 2 множества
 {
     Link(FindSet(x), FindSet(y));
 }

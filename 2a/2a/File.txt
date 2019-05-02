@@ -1,0 +1,1772 @@
+------------------------------
+Проводим замеры при V = 5
+------------------------------
+опыт номер:1
+from:0 to:1 weight:2.00351
+from:0 to:2 weight:2.03806
+from:0 to:3 weight:1.08439
+from:0 to:4 weight:0.635507
+from:1 to:2 weight:0.958
+from:1 to:3 weight:0.926875
+from:1 to:4 weight:2.28923
+from:2 to:3 weight:1.11958
+from:2 to:4 weight:2.53552
+from:3 to:4 weight:1.45923
+ 2-aprox --> 1.19806
+ 1,5-aprox --> 1.02038
+опыт номер:2
+from:0 to:1 weight:2.00351
+from:0 to:2 weight:2.03806
+from:0 to:3 weight:1.08439
+from:0 to:4 weight:0.635507
+from:1 to:2 weight:0.958
+from:1 to:3 weight:0.926875
+from:1 to:4 weight:2.28923
+from:2 to:3 weight:1.11958
+from:2 to:4 weight:2.53552
+from:3 to:4 weight:1.45923
+ 2-aprox --> 1.19806
+ 1,5-aprox --> 1.02038
+опыт номер:3
+from:0 to:1 weight:2.00351
+from:0 to:2 weight:2.03806
+from:0 to:3 weight:1.08439
+from:0 to:4 weight:0.635507
+from:1 to:2 weight:0.958
+from:1 to:3 weight:0.926875
+from:1 to:4 weight:2.28923
+from:2 to:3 weight:1.11958
+from:2 to:4 weight:2.53552
+from:3 to:4 weight:1.45923
+ 2-aprox --> 1.19806
+ 1,5-aprox --> 1.02038
+опыт номер:4
+from:0 to:1 weight:2.00351
+from:0 to:2 weight:2.03806
+from:0 to:3 weight:1.08439
+from:0 to:4 weight:0.635507
+from:1 to:2 weight:0.958
+from:1 to:3 weight:0.926875
+from:1 to:4 weight:2.28923
+from:2 to:3 weight:1.11958
+from:2 to:4 weight:2.53552
+from:3 to:4 weight:1.45923
+ 2-aprox --> 1.19806
+ 1,5-aprox --> 1.02038
+опыт номер:5
+from:0 to:1 weight:2.00351
+from:0 to:2 weight:2.03806
+from:0 to:3 weight:1.08439
+from:0 to:4 weight:0.635507
+from:1 to:2 weight:0.958
+from:1 to:3 weight:0.926875
+from:1 to:4 weight:2.28923
+from:2 to:3 weight:1.11958
+from:2 to:4 weight:2.53552
+from:3 to:4 weight:1.45923
+ 2-aprox --> 1.19806
+ 1,5-aprox --> 1.02038
+опыт номер:6
+from:0 to:1 weight:1.29435
+from:0 to:2 weight:2.11057
+from:0 to:3 weight:1.54994
+from:0 to:4 weight:1.96518
+from:1 to:2 weight:0.973754
+from:1 to:3 weight:1.37466
+from:1 to:4 weight:1.09177
+from:2 to:3 weight:2.28304
+from:2 to:4 weight:0.478271
+from:3 to:4 weight:2.46621
+ 2-aprox --> 1.29964
+ 1,5-aprox --> 1.06637
+опыт номер:7
+from:0 to:1 weight:1.29435
+from:0 to:2 weight:2.11057
+from:0 to:3 weight:1.54994
+from:0 to:4 weight:1.96518
+from:1 to:2 weight:0.973754
+from:1 to:3 weight:1.37466
+from:1 to:4 weight:1.09177
+from:2 to:3 weight:2.28304
+from:2 to:4 weight:0.478271
+from:3 to:4 weight:2.46621
+ 2-aprox --> 1.29964
+ 1,5-aprox --> 1.06637
+опыт номер:8
+from:0 to:1 weight:1.29435
+from:0 to:2 weight:2.11057
+from:0 to:3 weight:1.54994
+from:0 to:4 weight:1.96518
+from:1 to:2 weight:0.973754
+from:1 to:3 weight:1.37466
+from:1 to:4 weight:1.09177
+from:2 to:3 weight:2.28304
+from:2 to:4 weight:0.478271
+from:3 to:4 weight:2.46621
+ 2-aprox --> 1.29964
+ 1,5-aprox --> 1.06637
+опыт номер:9
+from:0 to:1 weight:1.29435
+from:0 to:2 weight:2.11057
+from:0 to:3 weight:1.54994
+from:0 to:4 weight:1.96518
+from:1 to:2 weight:0.973754
+from:1 to:3 weight:1.37466
+from:1 to:4 weight:1.09177
+from:2 to:3 weight:2.28304
+from:2 to:4 weight:0.478271
+from:3 to:4 weight:2.46621
+ 2-aprox --> 1.29964
+ 1,5-aprox --> 1.06637
+опыт номер:10
+from:0 to:1 weight:2.61788
+from:0 to:2 weight:0.771519
+from:0 to:3 weight:1.08446
+from:0 to:4 weight:0.658532
+from:1 to:2 weight:3.01113
+from:1 to:3 weight:3.46497
+from:1 to:4 weight:2.76222
+from:2 to:3 weight:1.54795
+from:2 to:4 weight:0.24902
+from:3 to:4 weight:1.58893
+ 2-aprox --> 1.11599
+ 1,5-aprox --> 1.07079
+среднее 2-приближение:1.23049
+среднее 1.5-приближение:1.04382
+среднее квадратичное 2-отклонение:0.23848
+среднее квадратичное 1.5-отклонение:0.0497092
+------------------------------
+Проводим замеры при V = 6
+------------------------------
+опыт номер:1
+from:0 to:1 weight:2.61788
+from:0 to:2 weight:0.771519
+from:0 to:3 weight:1.08446
+from:0 to:4 weight:0.658532
+from:0 to:5 weight:0.392952
+from:1 to:2 weight:3.01113
+from:1 to:3 weight:3.46497
+from:1 to:4 weight:2.76222
+from:1 to:5 weight:2.29982
+from:2 to:3 weight:1.54795
+from:2 to:4 weight:0.24902
+from:2 to:5 weight:1.12161
+from:3 to:4 weight:1.58893
+from:3 to:5 weight:1.22254
+from:4 to:5 weight:0.956135
+ 2-aprox --> 1.12393
+ 1,5-aprox --> 1.07016
+опыт номер:2
+from:0 to:1 weight:1.48213
+from:0 to:2 weight:2.15263
+from:0 to:3 weight:0.591232
+from:0 to:4 weight:1.0932
+from:0 to:5 weight:2.81731
+from:1 to:2 weight:0.673546
+from:1 to:3 weight:1.00406
+from:1 to:4 weight:1.58297
+from:1 to:5 weight:1.35686
+from:2 to:3 weight:1.64535
+from:2 to:4 weight:2.09303
+from:2 to:5 weight:0.695
+from:3 to:4 weight:0.799045
+from:3 to:5 weight:2.27926
+from:4 to:5 weight:2.60013
+ 2-aprox --> 1.13047
+ 1,5-aprox --> 1.07183
+опыт номер:3
+from:0 to:1 weight:0.729093
+from:0 to:2 weight:0.549412
+from:0 to:3 weight:0.905148
+from:0 to:4 weight:1.7127
+from:0 to:5 weight:1.31698
+from:1 to:2 weight:1.22717
+from:1 to:3 weight:0.969933
+from:1 to:4 weight:1.20483
+from:1 to:5 weight:0.824602
+from:2 to:3 weight:0.931014
+from:2 to:4 weight:1.97574
+from:2 to:5 weight:1.61125
+from:3 to:4 weight:1.11006
+from:3 to:5 weight:0.815005
+from:4 to:5 weight:0.399034
+ 2-aprox --> 1.46026
+ 1,5-aprox --> 0.935055
+опыт номер:4
+from:0 to:1 weight:0.729093
+from:0 to:2 weight:0.549412
+from:0 to:3 weight:0.905148
+from:0 to:4 weight:1.7127
+from:0 to:5 weight:1.31698
+from:1 to:2 weight:1.22717
+from:1 to:3 weight:0.969933
+from:1 to:4 weight:1.20483
+from:1 to:5 weight:0.824602
+from:2 to:3 weight:0.931014
+from:2 to:4 weight:1.97574
+from:2 to:5 weight:1.61125
+from:3 to:4 weight:1.11006
+from:3 to:5 weight:0.815005
+from:4 to:5 weight:0.399034
+ 2-aprox --> 1.46026
+ 1,5-aprox --> 0.935055
+опыт номер:5
+from:0 to:1 weight:1.17868
+from:0 to:2 weight:1.12846
+from:0 to:3 weight:3.05972
+from:0 to:4 weight:1.48906
+from:0 to:5 weight:1.81681
+from:1 to:2 weight:0.13779
+from:1 to:3 weight:2.01389
+from:1 to:4 weight:2.48464
+from:1 to:5 weight:0.681975
+from:2 to:3 weight:2.13311
+from:2 to:4 weight:2.38293
+from:2 to:5 weight:0.692562
+from:3 to:4 weight:4.48064
+from:3 to:5 weight:1.77746
+from:4 to:5 weight:2.96926
+ 2-aprox --> 1.096
+ 1,5-aprox --> 1.01886
+опыт номер:6
+from:0 to:1 weight:1.17868
+from:0 to:2 weight:1.12846
+from:0 to:3 weight:3.05972
+from:0 to:4 weight:1.48906
+from:0 to:5 weight:1.81681
+from:1 to:2 weight:0.13779
+from:1 to:3 weight:2.01389
+from:1 to:4 weight:2.48464
+from:1 to:5 weight:0.681975
+from:2 to:3 weight:2.13311
+from:2 to:4 weight:2.38293
+from:2 to:5 weight:0.692562
+from:3 to:4 weight:4.48064
+from:3 to:5 weight:1.77746
+from:4 to:5 weight:2.96926
+ 2-aprox --> 1.096
+ 1,5-aprox --> 1.01886
+опыт номер:7
+from:0 to:1 weight:1.18279
+from:0 to:2 weight:1.34282
+from:0 to:3 weight:2.52168
+from:0 to:4 weight:0.696177
+from:0 to:5 weight:0.280892
+from:1 to:2 weight:1.32264
+from:1 to:3 weight:1.99389
+from:1 to:4 weight:1.868
+from:1 to:5 weight:0.926914
+from:2 to:3 weight:1.24137
+from:2 to:4 weight:1.65906
+from:2 to:5 weight:1.14725
+from:3 to:4 weight:2.90025
+from:3 to:5 weight:2.28078
+from:4 to:5 weight:0.941802
+ 2-aprox --> 1.26285
+ 1,5-aprox --> 1.06325
+опыт номер:8
+from:0 to:1 weight:1.18279
+from:0 to:2 weight:1.34282
+from:0 to:3 weight:2.52168
+from:0 to:4 weight:0.696177
+from:0 to:5 weight:0.280892
+from:1 to:2 weight:1.32264
+from:1 to:3 weight:1.99389
+from:1 to:4 weight:1.868
+from:1 to:5 weight:0.926914
+from:2 to:3 weight:1.24137
+from:2 to:4 weight:1.65906
+from:2 to:5 weight:1.14725
+from:3 to:4 weight:2.90025
+from:3 to:5 weight:2.28078
+from:4 to:5 weight:0.941802
+ 2-aprox --> 1.26285
+ 1,5-aprox --> 1.06325
+опыт номер:9
+from:0 to:1 weight:4.05875
+from:0 to:2 weight:0.85874
+from:0 to:3 weight:2.32248
+from:0 to:4 weight:3.23705
+from:0 to:5 weight:2.50737
+from:1 to:2 weight:3.7371
+from:1 to:3 weight:2.68526
+from:1 to:4 weight:1.2248
+from:1 to:5 weight:3.43063
+from:2 to:3 weight:1.57079
+from:2 to:4 weight:2.73604
+from:2 to:5 weight:1.65348
+from:3 to:4 weight:1.48286
+from:3 to:5 weight:0.791123
+from:4 to:5 weight:2.20864
+ 2-aprox --> 1.17745
+ 1,5-aprox --> 1.16005
+опыт номер:10
+from:0 to:1 weight:4.05875
+from:0 to:2 weight:0.85874
+from:0 to:3 weight:2.32248
+from:0 to:4 weight:3.23705
+from:0 to:5 weight:2.50737
+from:1 to:2 weight:3.7371
+from:1 to:3 weight:2.68526
+from:1 to:4 weight:1.2248
+from:1 to:5 weight:3.43063
+from:2 to:3 weight:1.57079
+from:2 to:4 weight:2.73604
+from:2 to:5 weight:1.65348
+from:3 to:4 weight:1.48286
+from:3 to:5 weight:0.791123
+from:4 to:5 weight:2.20864
+ 2-aprox --> 1.17745
+ 1,5-aprox --> 1.16005
+среднее 2-приближение:1.22475
+среднее 1.5-приближение:1.04964
+среднее квадратичное 2-отклонение:0.259933
+среднее квадратичное 1.5-отклонение:0.0885789
+------------------------------
+Проводим замеры при V = 7
+------------------------------
+опыт номер:1
+from:0 to:1 weight:2.28366
+from:0 to:2 weight:2.25347
+from:0 to:3 weight:3.65543
+from:0 to:4 weight:3.8836
+from:0 to:5 weight:2.35739
+from:0 to:6 weight:3.10035
+from:1 to:2 weight:2.15217
+from:1 to:3 weight:2.45708
+from:1 to:4 weight:1.87797
+from:1 to:5 weight:1.2416
+from:1 to:6 weight:0.928973
+from:2 to:3 weight:1.59703
+from:2 to:4 weight:2.5094
+from:2 to:5 weight:1.02837
+from:2 to:6 weight:3.00758
+from:3 to:4 weight:1.47547
+from:3 to:5 weight:1.40156
+from:3 to:6 weight:2.9439
+from:4 to:5 weight:1.65161
+from:4 to:6 weight:1.88198
+from:5 to:6 weight:2.0146
+ 2-aprox --> 1.48033
+ 1,5-aprox --> 1.16243
+опыт номер:2
+from:0 to:1 weight:1.4536
+from:0 to:2 weight:1.0744
+from:0 to:3 weight:2.28776
+from:0 to:4 weight:1.63649
+from:0 to:5 weight:1.40143
+from:0 to:6 weight:2.43576
+from:1 to:2 weight:0.437816
+from:1 to:3 weight:1.69558
+from:1 to:4 weight:0.791894
+from:1 to:5 weight:2.71634
+from:1 to:6 weight:1.44029
+from:2 to:3 weight:1.58076
+from:2 to:4 weight:0.710765
+from:2 to:5 weight:2.28328
+from:2 to:6 weight:1.50017
+from:3 to:4 weight:0.908054
+from:3 to:5 weight:2.8125
+from:3 to:6 weight:0.643236
+from:4 to:5 weight:2.5681
+from:4 to:6 weight:0.808961
+from:5 to:6 weight:3.22676
+ 2-aprox --> 1.27389
+ 1,5-aprox --> 1.17609
+опыт номер:3
+from:0 to:1 weight:1.9442
+from:0 to:2 weight:0.773057
+from:0 to:3 weight:2.31804
+from:0 to:4 weight:1.1192
+from:0 to:5 weight:1.47086
+from:0 to:6 weight:1.36875
+from:1 to:2 weight:2.53726
+from:1 to:3 weight:1.67069
+from:1 to:4 weight:0.842199
+from:1 to:5 weight:1.0871
+from:1 to:6 weight:1.0229
+from:2 to:3 weight:2.4199
+from:2 to:4 weight:1.78124
+from:2 to:5 weight:2.23069
+from:2 to:6 weight:1.71901
+from:3 to:4 weight:1.84634
+from:3 to:5 weight:2.49108
+from:3 to:6 weight:1.05783
+from:4 to:5 weight:0.695704
+from:4 to:6 weight:0.816882
+from:5 to:6 weight:1.50065
+ 2-aprox --> 1.3062
+ 1,5-aprox --> 1.08486
+опыт номер:4
+from:0 to:1 weight:2.8173
+from:0 to:2 weight:1.14711
+from:0 to:3 weight:1.42526
+from:0 to:4 weight:2.42202
+from:0 to:5 weight:0.681163
+from:0 to:6 weight:1.08481
+from:1 to:2 weight:2.62896
+from:1 to:3 weight:1.50956
+from:1 to:4 weight:3.30255
+from:1 to:5 weight:2.1441
+from:1 to:6 weight:2.23996
+from:2 to:3 weight:1.15511
+from:2 to:4 weight:1.30139
+from:2 to:5 weight:1.01243
+from:2 to:6 weight:0.408338
+from:3 to:4 weight:2.13292
+from:3 to:5 weight:0.760388
+from:3 to:6 weight:0.749722
+from:4 to:5 weight:2.28195
+from:4 to:6 weight:1.57617
+from:5 to:6 weight:0.716422
+ 2-aprox --> 1.18622
+ 1,5-aprox --> 1.078
+опыт номер:5
+from:0 to:1 weight:0.610966
+from:0 to:2 weight:2.88271
+from:0 to:3 weight:0.902634
+from:0 to:4 weight:1.54001
+from:0 to:5 weight:2.05623
+from:0 to:6 weight:1.94992
+from:1 to:2 weight:2.69697
+from:1 to:3 weight:1.44722
+from:1 to:4 weight:1.78847
+from:1 to:5 weight:1.88455
+from:1 to:6 weight:1.41235
+from:2 to:3 weight:3.68152
+from:2 to:4 weight:1.90825
+from:2 to:5 weight:0.827816
+from:2 to:6 weight:1.96057
+from:3 to:4 weight:2.04277
+from:3 to:5 weight:2.87037
+from:3 to:6 weight:2.84124
+from:4 to:5 weight:1.2859
+from:4 to:6 weight:2.26954
+from:5 to:6 weight:1.42424
+ 2-aprox --> 1.42959
+ 1,5-aprox --> 1.24323
+опыт номер:6
+from:0 to:1 weight:1.98209
+from:0 to:2 weight:2.81815
+from:0 to:3 weight:1.59766
+from:0 to:4 weight:1.67661
+from:0 to:5 weight:0.477453
+from:0 to:6 weight:2.21752
+from:1 to:2 weight:1.26265
+from:1 to:3 weight:1.14583
+from:1 to:4 weight:0.735223
+from:1 to:5 weight:1.77559
+from:1 to:6 weight:1.01155
+from:2 to:3 weight:1.30134
+from:2 to:4 weight:1.14395
+from:2 to:5 weight:2.44174
+from:2 to:6 weight:0.625999
+from:3 to:4 weight:0.411426
+from:3 to:5 weight:1.17157
+from:3 to:6 weight:0.675408
+from:4 to:5 weight:1.32569
+from:4 to:6 weight:0.577341
+from:5 to:6 weight:1.82401
+ 2-aprox --> 1.22885
+ 1,5-aprox --> 1.09473
+опыт номер:7
+from:0 to:1 weight:1.93832
+from:0 to:2 weight:2.34969
+from:0 to:3 weight:1.89888
+from:0 to:4 weight:1.5162
+from:0 to:5 weight:1.57871
+from:0 to:6 weight:3.38688
+from:1 to:2 weight:3.59946
+from:1 to:3 weight:1.97196
+from:1 to:4 weight:1.50477
+from:1 to:5 weight:2.62494
+from:1 to:6 weight:4.24661
+from:2 to:3 weight:1.90524
+from:2 to:4 weight:2.16676
+from:2 to:5 weight:0.974523
+from:2 to:6 weight:1.18067
+from:3 to:4 weight:0.521999
+from:3 to:5 weight:1.0666
+from:3 to:6 weight:2.30128
+from:4 to:5 weight:1.21518
+from:4 to:6 weight:2.74208
+from:5 to:6 weight:1.8261
+ 2-aprox --> 1.35292
+ 1,5-aprox --> 1.14448
+опыт номер:8
+from:0 to:1 weight:2.14425
+from:0 to:2 weight:2.23197
+from:0 to:3 weight:1.12209
+from:0 to:4 weight:2.5862
+from:0 to:5 weight:1.42715
+from:0 to:6 weight:2.38201
+from:1 to:2 weight:4.17529
+from:1 to:3 weight:2.78389
+from:1 to:4 weight:3.62551
+from:1 to:5 weight:1.45599
+from:1 to:6 weight:4.0779
+from:2 to:3 weight:1.41116
+from:2 to:4 weight:1.89124
+from:2 to:5 weight:2.90091
+from:2 to:6 weight:0.684156
+from:3 to:4 weight:1.51807
+from:3 to:5 weight:1.49574
+from:3 to:6 weight:1.33319
+from:4 to:5 weight:2.17344
+from:4 to:6 weight:1.25309
+from:5 to:6 weight:2.69051
+ 2-aprox --> 1.42045
+ 1,5-aprox --> 1.29291
+опыт номер:9
+from:0 to:1 weight:1.17826
+from:0 to:2 weight:0.484993
+from:0 to:3 weight:0.867071
+from:0 to:4 weight:1.13261
+from:0 to:5 weight:0.760445
+from:0 to:6 weight:0.553727
+from:1 to:2 weight:0.714989
+from:1 to:3 weight:1.94806
+from:1 to:4 weight:1.81857
+from:1 to:5 weight:1.77725
+from:1 to:6 weight:1.27009
+from:2 to:3 weight:1.23959
+from:2 to:4 weight:1.23597
+from:2 to:5 weight:1.19063
+from:2 to:6 weight:0.621187
+from:3 to:4 weight:0.732544
+from:3 to:5 weight:1.09417
+from:3 to:6 weight:0.738254
+from:4 to:5 weight:1.68438
+from:4 to:6 weight:0.626402
+from:5 to:6 weight:1.24401
+ 2-aprox --> 1.3629
+ 1,5-aprox --> 1.1467
+опыт номер:10
+from:0 to:1 weight:2.34527
+from:0 to:2 weight:1.61083
+from:0 to:3 weight:1.84608
+from:0 to:4 weight:2.27714
+from:0 to:5 weight:0.758485
+from:0 to:6 weight:1.82002
+from:1 to:2 weight:3.48669
+from:1 to:3 weight:1.02162
+from:1 to:4 weight:2.59467
+from:1 to:5 weight:1.66741
+from:1 to:6 weight:2.70029
+from:2 to:3 weight:2.60928
+from:2 to:4 weight:1.86906
+from:2 to:5 weight:1.90008
+from:2 to:6 weight:1.2665
+from:3 to:4 weight:1.58078
+from:3 to:5 weight:1.08891
+from:3 to:6 weight:1.69296
+from:4 to:5 weight:1.83492
+from:4 to:6 weight:0.611692
+from:5 to:6 weight:1.55183
+ 2-aprox --> 1.47911
+ 1,5-aprox --> 1.12445
+среднее 2-приближение:1.35205
+среднее 1.5-приближение:1.15479
+среднее квадратичное 2-отклонение:0.365194
+среднее квадратичное 1.5-отклонение:0.168075
+------------------------------
+Проводим замеры при V = 8
+------------------------------
+опыт номер:1
+from:0 to:1 weight:1.27785
+from:0 to:2 weight:2.06227
+from:0 to:3 weight:1.07113
+from:0 to:4 weight:1.40298
+from:0 to:5 weight:2.61588
+from:0 to:6 weight:1.4395
+from:0 to:7 weight:1.88445
+from:1 to:2 weight:2.15347
+from:1 to:3 weight:0.286537
+from:1 to:4 weight:1.86417
+from:1 to:5 weight:1.34215
+from:1 to:6 weight:0.800403
+from:1 to:7 weight:2.64322
+from:2 to:3 weight:1.9088
+from:2 to:4 weight:3.43389
+from:2 to:5 weight:2.8181
+from:2 to:6 weight:1.40068
+from:2 to:7 weight:3.93646
+from:3 to:4 weight:1.87592
+from:3 to:5 weight:1.55612
+from:3 to:6 weight:0.631969
+from:3 to:7 weight:2.61158
+from:4 to:5 weight:2.99585
+from:4 to:6 weight:2.48108
+from:4 to:7 weight:0.829929
+from:5 to:6 weight:1.55326
+from:5 to:7 weight:3.82145
+from:6 to:7 weight:3.17781
+ 2-aprox --> 1.23992
+ 1,5-aprox --> 1.10883
+опыт номер:2
+from:0 to:1 weight:3.2634
+from:0 to:2 weight:3.25576
+from:0 to:3 weight:3.3292
+from:0 to:4 weight:2.23844
+from:0 to:5 weight:1.8221
+from:0 to:6 weight:3.46281
+from:0 to:7 weight:2.52911
+from:1 to:2 weight:0.492479
+from:1 to:3 weight:2.28485
+from:1 to:4 weight:1.02718
+from:1 to:5 weight:1.44166
+from:1 to:6 weight:0.25623
+from:1 to:7 weight:0.782978
+from:2 to:3 weight:1.80964
+from:2 to:4 weight:1.12275
+from:2 to:5 weight:1.47247
+from:2 to:6 weight:0.403935
+from:2 to:7 weight:1.01154
+from:3 to:4 weight:2.23899
+from:3 to:5 weight:2.25399
+from:3 to:6 weight:2.20357
+from:3 to:7 weight:2.40298
+from:4 to:5 weight:0.42341
+from:4 to:6 weight:1.24104
+from:4 to:7 weight:0.334608
+from:5 to:6 weight:1.64301
+from:5 to:7 weight:0.743913
+from:6 to:7 weight:1.02438
+ 2-aprox --> 1.27327
+ 1,5-aprox --> 1
+опыт номер:3
+from:0 to:1 weight:2.48825
+from:0 to:2 weight:2.52374
+from:0 to:3 weight:3.56778
+from:0 to:4 weight:3.52175
+from:0 to:5 weight:2.46034
+from:0 to:6 weight:4.28539
+from:0 to:7 weight:1.9292
+from:1 to:2 weight:0.252691
+from:1 to:3 weight:1.12086
+from:1 to:4 weight:1.15282
+from:1 to:5 weight:0.827719
+from:1 to:6 weight:2.58541
+from:1 to:7 weight:1.1028
+from:2 to:3 weight:1.20543
+from:2 to:4 weight:1.02137
+from:2 to:5 weight:1.07923
+from:2 to:6 weight:2.34963
+from:2 to:7 weight:1.31347
+from:3 to:4 weight:0.969337
+from:3 to:5 weight:1.30675
+from:3 to:6 weight:2.6993
+from:3 to:7 weight:1.8588
+from:4 to:5 weight:1.82227
+from:4 to:6 weight:1.73724
+from:4 to:7 weight:2.23331
+from:5 to:6 weight:3.39518
+from:5 to:7 weight:0.575232
+from:6 to:7 weight:3.65452
+ 2-aprox --> 1.25992
+ 1,5-aprox --> 1.16587
+опыт номер:4
+from:0 to:1 weight:2.04316
+from:0 to:2 weight:1.94873
+from:0 to:3 weight:1.7433
+from:0 to:4 weight:2.28673
+from:0 to:5 weight:3.07001
+from:0 to:6 weight:0.559512
+from:0 to:7 weight:2.84241
+from:1 to:2 weight:1.15417
+from:1 to:3 weight:0.542082
+from:1 to:4 weight:0.36707
+from:1 to:5 weight:1.54909
+from:1 to:6 weight:1.6038
+from:1 to:7 weight:0.963851
+from:2 to:3 weight:1.49144
+from:2 to:4 weight:1.50962
+from:2 to:5 weight:1.15744
+from:2 to:6 weight:1.38923
+from:2 to:7 weight:2.05639
+from:3 to:4 weight:0.588142
+from:3 to:5 weight:2.08019
+from:3 to:6 weight:1.42046
+from:3 to:7 weight:1.09967
+from:4 to:5 weight:1.7385
+from:4 to:6 weight:1.8955
+from:4 to:7 weight:0.60806
+from:5 to:6 weight:2.51465
+from:5 to:7 weight:2.01477
+from:6 to:7 weight:2.48598
+ 2-aprox --> 1.37865
+ 1,5-aprox --> 1.34856
+опыт номер:5
+from:0 to:1 weight:0.877074
+from:0 to:2 weight:1.85477
+from:0 to:3 weight:2.40146
+from:0 to:4 weight:0.402498
+from:0 to:5 weight:1.03645
+from:0 to:6 weight:1.49621
+from:0 to:7 weight:2.7527
+from:1 to:2 weight:1.91766
+from:1 to:3 weight:1.72773
+from:1 to:4 weight:0.881863
+from:1 to:5 weight:1.24968
+from:1 to:6 weight:1.20858
+from:1 to:7 weight:2.88854
+from:2 to:3 weight:1.80333
+from:2 to:4 weight:2.23311
+from:2 to:5 weight:0.818414
+from:2 to:6 weight:0.849047
+from:2 to:7 weight:0.970923
+from:3 to:4 weight:2.56699
+from:3 to:5 weight:1.88298
+from:3 to:6 weight:1.14545
+from:3 to:7 weight:2.49523
+from:4 to:5 weight:1.41867
+from:4 to:6 weight:1.78768
+from:4 to:7 weight:3.14673
+from:5 to:6 weight:0.744666
+from:5 to:7 weight:1.73606
+from:6 to:7 weight:1.77745
+ 2-aprox --> 1.37039
+ 1,5-aprox --> 1.25884
+опыт номер:6
+from:0 to:1 weight:0.419557
+from:0 to:2 weight:0.850571
+from:0 to:3 weight:1.86092
+from:0 to:4 weight:1.78896
+from:0 to:5 weight:0.700679
+from:0 to:6 weight:1.37246
+from:0 to:7 weight:2.6216
+from:1 to:2 weight:1.0004
+from:1 to:3 weight:1.44277
+from:1 to:4 weight:1.47351
+from:1 to:5 weight:0.353072
+from:1 to:6 weight:0.965694
+from:1 to:7 weight:2.47445
+from:2 to:3 weight:2.09972
+from:2 to:4 weight:1.57308
+from:2 to:5 weight:1.35137
+from:2 to:6 weight:1.84553
+from:2 to:7 weight:1.96424
+from:3 to:4 weight:1.02263
+from:3 to:5 weight:1.2757
+from:3 to:6 weight:0.660327
+from:3 to:7 weight:2.3668
+from:4 to:5 weight:1.55312
+from:4 to:6 weight:1.35161
+from:4 to:7 weight:1.35304
+from:5 to:6 weight:0.697003
+from:5 to:7 weight:2.68787
+from:6 to:7 weight:2.67066
+ 2-aprox --> 1.46336
+ 1,5-aprox --> 1
+опыт номер:7
+from:0 to:1 weight:1.41653
+from:0 to:2 weight:2.99992
+from:0 to:3 weight:1.33681
+from:0 to:4 weight:0.525723
+from:0 to:5 weight:2.15349
+from:0 to:6 weight:2.07408
+from:0 to:7 weight:1.7141
+from:1 to:2 weight:2.20145
+from:1 to:3 weight:0.114793
+from:1 to:4 weight:0.933624
+from:1 to:5 weight:2.42078
+from:1 to:6 weight:1.11528
+from:1 to:7 weight:1.61777
+from:2 to:3 weight:2.15696
+from:2 to:4 weight:2.53282
+from:2 to:5 weight:1.89877
+from:2 to:6 weight:1.08633
+from:2 to:7 weight:1.465
+from:3 to:4 weight:0.840852
+from:3 to:5 weight:2.31162
+from:3 to:6 weight:1.07205
+from:3 to:7 weight:1.51371
+from:4 to:5 weight:1.98005
+from:4 to:6 weight:1.56325
+from:4 to:7 weight:1.37494
+from:5 to:6 weight:1.85953
+from:5 to:7 weight:0.83387
+from:6 to:7 weight:1.06689
+ 2-aprox --> 1.36303
+ 1,5-aprox --> 1.21669
+опыт номер:8
+from:0 to:1 weight:1.89358
+from:0 to:2 weight:1.36107
+from:0 to:3 weight:2.92121
+from:0 to:4 weight:1.56746
+from:0 to:5 weight:0.510026
+from:0 to:6 weight:0.646807
+from:0 to:7 weight:1.57902
+from:1 to:2 weight:0.552994
+from:1 to:3 weight:1.53804
+from:1 to:4 weight:3.45323
+from:1 to:5 weight:2.21555
+from:1 to:6 weight:1.27368
+from:1 to:7 weight:2.36672
+from:2 to:3 weight:1.93744
+from:2 to:4 weight:2.92788
+from:2 to:5 weight:1.66306
+from:2 to:6 weight:0.77747
+from:2 to:7 weight:2.09796
+from:3 to:4 weight:4.29053
+from:3 to:5 weight:3.37837
+from:3 to:6 weight:2.30124
+from:3 to:7 weight:2.45708
+from:4 to:5 weight:1.42302
+from:4 to:6 weight:2.18291
+from:4 to:7 weight:2.16278
+from:5 to:6 weight:1.07714
+from:5 to:7 weight:2.04078
+from:6 to:7 weight:1.50905
+ 2-aprox --> 1.38205
+ 1,5-aprox --> 1.1344
+опыт номер:9
+from:0 to:1 weight:2.48894
+from:0 to:2 weight:1.72549
+from:0 to:3 weight:0.821556
+from:0 to:4 weight:1.68566
+from:0 to:5 weight:2.14534
+from:0 to:6 weight:2.03087
+from:0 to:7 weight:3.05526
+from:1 to:2 weight:2.60354
+from:1 to:3 weight:1.72601
+from:1 to:4 weight:0.803491
+from:1 to:5 weight:3.03885
+from:1 to:6 weight:0.642263
+from:1 to:7 weight:1.91201
+from:2 to:3 weight:1.43586
+from:2 to:4 weight:2.03637
+from:2 to:5 weight:3.78306
+from:2 to:6 weight:2.55515
+from:2 to:7 weight:4.04296
+from:3 to:4 weight:0.934749
+from:3 to:5 weight:2.42097
+from:3 to:6 weight:1.37596
+from:3 to:7 weight:2.69211
+from:4 to:5 weight:2.53984
+from:4 to:6 weight:0.518782
+from:4 to:7 weight:2.04779
+from:5 to:6 weight:2.4
+from:5 to:7 weight:2.08229
+from:6 to:7 weight:1.55559
+ 2-aprox --> 1.41122
+ 1,5-aprox --> 1.2478
+опыт номер:10
+from:0 to:1 weight:1.08296
+from:0 to:2 weight:1.31573
+from:0 to:3 weight:1.4114
+from:0 to:4 weight:1.78341
+from:0 to:5 weight:3.18701
+from:0 to:6 weight:1.74317
+from:0 to:7 weight:1.12012
+from:1 to:2 weight:1.98116
+from:1 to:3 weight:1.38583
+from:1 to:4 weight:0.870662
+from:1 to:5 weight:3.26978
+from:1 to:6 weight:1.95878
+from:1 to:7 weight:1.54921
+from:2 to:3 weight:1.04769
+from:2 to:4 weight:2.20791
+from:2 to:5 weight:2.09044
+from:2 to:6 weight:0.819418
+from:2 to:7 weight:0.496038
+from:3 to:4 weight:1.25863
+from:3 to:5 weight:1.90483
+from:3 to:6 weight:0.599673
+from:3 to:7 weight:0.586767
+from:4 to:5 weight:2.86721
+from:4 to:6 weight:1.8393
+from:4 to:7 weight:1.71249
+from:5 to:6 weight:1.44393
+from:5 to:7 weight:2.0726
+from:6 to:7 weight:0.635086
+ 2-aprox --> 1.38358
+ 1,5-aprox --> 1.11611
+среднее 2-приближение:1.35254
+среднее 1.5-приближение:1.15971
+среднее квадратичное 2-отклонение:0.359034
+среднее квадратичное 1.5-отклонение:0.191768
+------------------------------
+Проводим замеры при V = 9
+------------------------------
+опыт номер:1
+from:0 to:1 weight:1.35652
+from:0 to:2 weight:2.93039
+from:0 to:3 weight:1.25266
+from:0 to:4 weight:2.03103
+from:0 to:5 weight:2.8419
+from:0 to:6 weight:1.03419
+from:0 to:7 weight:1.19729
+from:0 to:8 weight:2.30471
+from:1 to:2 weight:3.36367
+from:1 to:3 weight:0.945871
+from:1 to:4 weight:3.2981
+from:1 to:5 weight:3.35612
+from:1 to:6 weight:2.30208
+from:1 to:7 weight:2.29369
+from:1 to:8 weight:0.981495
+from:2 to:3 weight:2.41962
+from:2 to:4 weight:2.48375
+from:2 to:5 weight:0.204289
+from:2 to:6 weight:2.43415
+from:2 to:7 weight:3.8804
+from:2 to:8 weight:4.16049
+from:3 to:4 weight:2.73857
+from:3 to:5 weight:2.41869
+from:3 to:6 weight:1.83261
+from:3 to:7 weight:2.44062
+from:3 to:8 weight:1.79104
+from:4 to:5 weight:2.2921
+from:4 to:6 weight:1.00377
+from:4 to:7 weight:2.15612
+from:4 to:8 weight:4.27825
+from:5 to:6 weight:2.28887
+from:5 to:7 weight:3.75267
+from:5 to:8 weight:4.18299
+from:6 to:7 weight:1.49624
+from:6 to:8 weight:3.27979
+from:7 to:8 weight:3.07618
+ 2-aprox --> 1.39824
+ 1,5-aprox --> 1.30244
+опыт номер:2
+from:0 to:1 weight:3.81162
+from:0 to:2 weight:2.33708
+from:0 to:3 weight:2.1233
+from:0 to:4 weight:2.36503
+from:0 to:5 weight:1.036
+from:0 to:6 weight:3.00699
+from:0 to:7 weight:4.06392
+from:0 to:8 weight:2.82611
+from:1 to:2 weight:2.28618
+from:1 to:3 weight:3.3993
+from:1 to:4 weight:2.708
+from:1 to:5 weight:2.86002
+from:1 to:6 weight:0.868052
+from:1 to:7 weight:0.456904
+from:1 to:8 weight:1.7844
+from:2 to:3 weight:1.11483
+from:2 to:4 weight:0.442678
+from:2 to:5 weight:1.35561
+from:2 to:6 weight:1.46788
+from:2 to:7 weight:2.29831
+from:2 to:8 weight:2.62501
+from:3 to:4 weight:0.728838
+from:3 to:5 weight:1.52878
+from:3 to:6 weight:2.56658
+from:3 to:7 weight:3.4066
+from:3 to:8 weight:3.49513
+from:4 to:5 weight:1.48977
+from:4 to:6 weight:1.90518
+from:4 to:7 weight:2.68844
+from:4 to:8 weight:3.03838
+from:5 to:6 weight:2.02052
+from:5 to:7 weight:3.07153
+from:5 to:8 weight:2.2374
+from:6 to:7 weight:1.05693
+from:6 to:8 weight:1.60314
+from:7 to:8 weight:2.22897
+ 2-aprox --> 1.40514
+ 1,5-aprox --> 1.14375
+опыт номер:3
+from:0 to:1 weight:2.02267
+from:0 to:2 weight:1.40902
+from:0 to:3 weight:0.449941
+from:0 to:4 weight:0.517428
+from:0 to:5 weight:4.05138
+from:0 to:6 weight:1.58714
+from:0 to:7 weight:0.903705
+from:0 to:8 weight:2.06035
+from:1 to:2 weight:1.7028
+from:1 to:3 weight:1.74523
+from:1 to:4 weight:1.52004
+from:1 to:5 weight:3.05545
+from:1 to:6 weight:1.99401
+from:1 to:7 weight:1.84352
+from:1 to:8 weight:0.792091
+from:2 to:3 weight:0.967921
+from:2 to:4 weight:1.30642
+from:2 to:5 weight:2.66933
+from:2 to:6 weight:0.3083
+from:2 to:7 weight:0.538692
+from:2 to:8 weight:1.18504
+from:3 to:4 weight:0.476988
+from:3 to:5 weight:3.60145
+from:3 to:6 weight:1.17112
+from:3 to:7 weight:0.499724
+from:3 to:8 weight:1.66092
+from:4 to:5 weight:3.81004
+from:4 to:6 weight:1.56058
+from:4 to:7 weight:0.939024
+from:4 to:8 weight:1.65821
+from:5 to:6 weight:2.59887
+from:5 to:7 weight:3.2077
+from:5 to:8 weight:2.34322
+from:6 to:7 weight:0.683447
+from:6 to:8 weight:1.41935
+from:7 to:8 weight:1.53301
+ 2-aprox --> 1.3783
+ 1,5-aprox --> 1.31206
+опыт номер:4
+from:0 to:1 weight:0.282848
+from:0 to:2 weight:0.278744
+from:0 to:3 weight:1.15144
+from:0 to:4 weight:1.01738
+from:0 to:5 weight:1.55697
+from:0 to:6 weight:0.726291
+from:0 to:7 weight:0.797075
+from:0 to:8 weight:0.857797
+from:1 to:2 weight:0.0698222
+from:1 to:3 weight:1.28692
+from:1 to:4 weight:1.19213
+from:1 to:5 weight:1.39578
+from:1 to:6 weight:0.720114
+from:1 to:7 weight:1.0572
+from:1 to:8 weight:0.938179
+from:2 to:3 weight:1.22338
+from:2 to:4 weight:1.23427
+from:2 to:5 weight:1.34351
+from:2 to:6 weight:0.785887
+from:2 to:7 weight:1.02367
+from:2 to:8 weight:0.870768
+from:3 to:4 weight:1.92705
+from:3 to:5 weight:1.43267
+from:3 to:6 weight:1.87081
+from:3 to:7 weight:0.752722
+from:3 to:8 weight:0.391637
+from:4 to:5 weight:2.56975
+from:4 to:6 weight:0.714774
+from:4 to:7 weight:1.23318
+from:4 to:8 weight:1.7643
+from:5 to:6 weight:2.08691
+from:5 to:7 weight:1.89429
+from:5 to:8 weight:1.15332
+from:6 to:7 weight:1.37723
+from:6 to:8 weight:1.58266
+from:7 to:8 weight:0.772934
+ 2-aprox --> 1.46315
+ 1,5-aprox --> 1.11695
+опыт номер:5
+from:0 to:1 weight:2.54918
+from:0 to:2 weight:2.73762
+from:0 to:3 weight:0.694404
+from:0 to:4 weight:0.964471
+from:0 to:5 weight:2.68389
+from:0 to:6 weight:1.15502
+from:0 to:7 weight:1.82313
+from:0 to:8 weight:0.276237
+from:1 to:2 weight:2.21024
+from:1 to:3 weight:2.45607
+from:1 to:4 weight:1.92898
+from:1 to:5 weight:0.713365
+from:1 to:6 weight:1.93141
+from:1 to:7 weight:1.28033
+from:1 to:8 weight:2.62137
+from:2 to:3 weight:2.12991
+from:2 to:4 weight:2.90776
+from:2 to:5 weight:1.58029
+from:2 to:6 weight:3.06467
+from:2 to:7 weight:2.94478
+from:2 to:8 weight:2.98316
+from:3 to:4 weight:1.41054
+from:3 to:5 weight:2.40203
+from:3 to:6 weight:1.62044
+from:3 to:7 weight:2.08951
+from:3 to:8 weight:0.9703
+from:4 to:5 weight:2.2962
+from:4 to:6 weight:0.209929
+from:4 to:7 weight:0.907735
+from:4 to:8 weight:0.86549
+from:5 to:6 weight:2.3567
+from:5 to:7 weight:1.85814
+from:5 to:8 weight:2.82235
+from:6 to:7 weight:0.801238
+from:6 to:8 weight:1.02789
+from:7 to:8 weight:1.76637
+ 2-aprox --> 1.50185
+ 1,5-aprox --> 1
+опыт номер:6
+from:0 to:1 weight:2.39733
+from:0 to:2 weight:0.644603
+from:0 to:3 weight:2.67659
+from:0 to:4 weight:1.50834
+from:0 to:5 weight:1.0895
+from:0 to:6 weight:1.08016
+from:0 to:7 weight:1.11046
+from:0 to:8 weight:1.59298
+from:1 to:2 weight:2.98591
+from:1 to:3 weight:0.383513
+from:1 to:4 weight:1.55467
+from:1 to:5 weight:3.1888
+from:1 to:6 weight:1.6075
+from:1 to:7 weight:2.93714
+from:1 to:8 weight:1.26868
+from:2 to:3 weight:3.23639
+from:2 to:4 weight:2.1428
+from:2 to:5 weight:0.571464
+from:2 to:6 weight:1.50732
+from:2 to:7 weight:0.797175
+from:2 to:8 weight:2.0244
+from:3 to:4 weight:1.93479
+from:3 to:5 weight:3.38645
+from:3 to:6 weight:1.78714
+from:3 to:7 weight:3.1048
+from:3 to:8 weight:1.36366
+from:4 to:5 weight:2.58266
+from:4 to:6 weight:1.56845
+from:4 to:7 weight:2.51477
+from:4 to:8 weight:1.74159
+from:5 to:6 weight:1.59937
+from:5 to:7 weight:0.387103
+from:5 to:8 weight:2.06838
+from:6 to:7 weight:1.32981
+from:6 to:8 weight:0.521745
+from:7 to:8 weight:1.75836
+ 2-aprox --> 1.54039
+ 1,5-aprox --> 1.13865
+опыт номер:7
+from:0 to:1 weight:1.41031
+from:0 to:2 weight:1.682
+from:0 to:3 weight:1.83633
+from:0 to:4 weight:1.59797
+from:0 to:5 weight:1.22843
+from:0 to:6 weight:1.97355
+from:0 to:7 weight:2.35251
+from:0 to:8 weight:1.38728
+from:1 to:2 weight:2.13513
+from:1 to:3 weight:0.428621
+from:1 to:4 weight:0.675999
+from:1 to:5 weight:1.85874
+from:1 to:6 weight:0.84541
+from:1 to:7 weight:1.0536
+from:1 to:8 weight:2.0805
+from:2 to:3 weight:2.45855
+from:2 to:4 weight:2.71723
+from:2 to:5 weight:0.457618
+from:2 to:6 weight:1.98168
+from:2 to:7 weight:3.15812
+from:2 to:8 weight:3.06827
+from:3 to:4 weight:0.731861
+from:3 to:5 weight:2.22648
+from:3 to:6 weight:0.786182
+from:3 to:7 weight:0.703228
+from:3 to:8 weight:2.385
+from:4 to:5 weight:2.38251
+from:4 to:6 weight:1.45879
+from:4 to:7 weight:0.828287
+from:4 to:8 weight:1.74418
+from:5 to:6 weight:1.88381
+from:5 to:7 weight:2.90815
+from:5 to:8 weight:2.61285
+from:6 to:7 weight:1.40714
+from:6 to:8 weight:2.89468
+from:7 to:8 weight:2.542
+ 2-aprox --> 1.47379
+ 1,5-aprox --> 1.34089
+опыт номер:8
+from:0 to:1 weight:1.34706
+from:0 to:2 weight:1.14216
+from:0 to:3 weight:2.7398
+from:0 to:4 weight:3.44623
+from:0 to:5 weight:1.7377
+from:0 to:6 weight:1.32563
+from:0 to:7 weight:1.10862
+from:0 to:8 weight:0.57046
+from:1 to:2 weight:1.33285
+from:1 to:3 weight:1.58415
+from:1 to:4 weight:2.29837
+from:1 to:5 weight:2.34026
+from:1 to:6 weight:0.231102
+from:1 to:7 weight:0.34049
+from:1 to:8 weight:1.1834
+from:2 to:3 weight:2.03015
+from:2 to:4 weight:2.65833
+from:2 to:5 weight:1.01193
+from:2 to:6 weight:1.13698
+from:2 to:7 weight:1.37893
+from:2 to:8 weight:0.573152
+from:3 to:4 weight:0.718334
+from:3 to:5 weight:2.8458
+from:3 to:6 weight:1.47644
+from:3 to:7 weight:1.92452
+from:3 to:8 weight:2.32124
+from:4 to:5 weight:3.36965
+from:4 to:6 weight:2.19477
+from:4 to:7 weight:2.63884
+from:4 to:8 weight:3.00448
+from:5 to:6 weight:2.14874
+from:5 to:7 weight:2.34998
+from:5 to:8 weight:1.32458
+from:6 to:7 weight:0.497739
+from:6 to:8 weight:1.0669
+from:7 to:8 weight:1.08503
+ 2-aprox --> 1.27419
+ 1,5-aprox --> 1.19757
+опыт номер:9
+from:0 to:1 weight:0.573612
+from:0 to:2 weight:0.770469
+from:0 to:3 weight:1.66898
+from:0 to:4 weight:2.00861
+from:0 to:5 weight:1.75459
+from:0 to:6 weight:0.280613
+from:0 to:7 weight:1.40771
+from:0 to:8 weight:0.623367
+from:1 to:2 weight:0.956412
+from:1 to:3 weight:1.2862
+from:1 to:4 weight:2.22125
+from:1 to:5 weight:2.30007
+from:1 to:6 weight:0.702383
+from:1 to:7 weight:1.16302
+from:1 to:8 weight:1.10597
+from:2 to:3 weight:1.30312
+from:2 to:4 weight:1.27919
+from:2 to:5 weight:1.65479
+from:2 to:6 weight:0.506519
+from:2 to:7 weight:2.07603
+from:2 to:8 weight:0.555803
+from:3 to:4 weight:1.97081
+from:3 to:5 weight:2.94983
+from:3 to:6 weight:1.57164
+from:3 to:7 weight:2.25564
+from:3 to:8 weight:1.82865
+from:4 to:5 weight:1.75068
+from:4 to:6 weight:1.72806
+from:4 to:7 weight:3.3552
+from:4 to:8 weight:1.50625
+from:5 to:6 weight:1.6052
+from:5 to:7 weight:3.03451
+from:5 to:8 weight:1.21384
+from:6 to:7 weight:1.67275
+from:6 to:8 weight:0.403791
+from:7 to:8 weight:2.02621
+ 2-aprox --> 1.32963
+ 1,5-aprox --> 1.13157
+опыт номер:10
+from:0 to:1 weight:0.859646
+from:0 to:2 weight:1.90421
+from:0 to:3 weight:3.06021
+from:0 to:4 weight:2.94182
+from:0 to:5 weight:2.3999
+from:0 to:6 weight:3.596
+from:0 to:7 weight:1.59708
+from:0 to:8 weight:3.11134
+from:1 to:2 weight:1.22854
+from:1 to:3 weight:2.25043
+from:1 to:4 weight:2.09565
+from:1 to:5 weight:2.06376
+from:1 to:6 weight:2.81271
+from:1 to:7 weight:1.46902
+from:1 to:8 weight:2.36373
+from:2 to:3 weight:1.27117
+from:2 to:4 weight:1.34215
+from:2 to:5 weight:1.14216
+from:2 to:6 weight:1.73018
+from:2 to:7 weight:1.13138
+from:2 to:8 weight:1.21831
+from:3 to:4 weight:0.44238
+from:3 to:5 weight:1.98573
+from:3 to:6 weight:0.599152
+from:3 to:7 weight:2.34465
+from:3 to:8 weight:0.470758
+from:4 to:5 weight:2.25191
+from:4 to:6 weight:0.975718
+from:4 to:7 weight:2.47015
+from:4 to:8 weight:0.902295
+from:5 to:6 weight:2.1658
+from:5 to:7 weight:0.854018
+from:5 to:8 weight:1.65473
+from:6 to:7 weight:2.69535
+from:6 to:8 weight:0.53962
+from:7 to:8 weight:2.15574
+ 2-aprox --> 1.47953
+ 1,5-aprox --> 1.35842
+среднее 2-приближение:1.42442
+среднее 1.5-приближение:1.20423
+среднее квадратичное 2-отклонение:0.431565
+среднее квадратичное 1.5-отклонение:0.233116
+------------------------------
+Проводим замеры при V = 10
+------------------------------
+опыт номер:1
+from:0 to:1 weight:1.06104
+from:0 to:2 weight:2.86222
+from:0 to:3 weight:1.57294
+from:0 to:4 weight:2.01289
+from:0 to:5 weight:2.50227
+from:0 to:6 weight:2.10053
+from:0 to:7 weight:2.24165
+from:0 to:8 weight:2.67821
+from:0 to:9 weight:2.5425
+from:1 to:2 weight:1.98408
+from:1 to:3 weight:2.63131
+from:1 to:4 weight:1.21226
+from:1 to:5 weight:1.77411
+from:1 to:6 weight:1.04028
+from:1 to:7 weight:1.23236
+from:1 to:8 weight:1.8329
+from:1 to:9 weight:1.49272
+from:2 to:3 weight:4.26945
+from:2 to:4 weight:0.854054
+from:2 to:5 weight:0.567236
+from:2 to:6 weight:1.34285
+from:2 to:7 weight:1.87097
+from:2 to:8 weight:0.208497
+from:2 to:9 weight:1.04439
+from:3 to:4 weight:3.42222
+from:3 to:5 weight:3.81574
+from:3 to:6 weight:3.6671
+from:3 to:7 weight:3.80581
+from:3 to:8 weight:4.06893
+from:3 to:9 weight:4.0954
+from:4 to:5 weight:0.5658
+from:4 to:6 weight:1.00598
+from:4 to:7 weight:1.57109
+from:4 to:8 weight:0.665335
+from:4 to:9 weight:1.05873
+from:5 to:6 weight:1.4531
+from:5 to:7 weight:2.02529
+from:5 to:8 weight:0.37631
+from:5 to:9 weight:1.33322
+from:6 to:7 weight:0.573353
+from:6 to:8 weight:1.28823
+from:6 to:9 weight:0.482957
+from:7 to:8 weight:1.84094
+from:7 to:9 weight:0.864355
+from:8 to:9 weight:1.06114
+ 2-aprox --> 1.30688
+ 1,5-aprox --> 1.14052
+опыт номер:2
+from:0 to:1 weight:1.53716
+from:0 to:2 weight:1.38069
+from:0 to:3 weight:2.60694
+from:0 to:4 weight:1.73849
+from:0 to:5 weight:3.16069
+from:0 to:6 weight:1.38485
+from:0 to:7 weight:0.549349
+from:0 to:8 weight:2.29767
+from:0 to:9 weight:2.45476
+from:1 to:2 weight:1.0551
+from:1 to:3 weight:2.05259
+from:1 to:4 weight:1.05599
+from:1 to:5 weight:1.67479
+from:1 to:6 weight:0.225512
+from:1 to:7 weight:1.53108
+from:1 to:8 weight:1.22024
+from:1 to:9 weight:0.921382
+from:2 to:3 weight:3.03109
+from:2 to:4 weight:0.382473
+from:2 to:5 weight:2.56984
+from:2 to:6 weight:1.13595
+from:2 to:7 weight:0.999034
+from:2 to:8 weight:0.996267
+from:2 to:9 weight:1.64388
+from:3 to:4 weight:3.10467
+from:3 to:5 weight:2.09401
+from:3 to:6 weight:1.90801
+from:3 to:7 weight:2.99589
+from:3 to:8 weight:3.20396
+from:3 to:9 weight:2.31589
+from:4 to:5 weight:2.36908
+from:4 to:6 weight:1.2032
+from:4 to:7 weight:1.38084
+from:4 to:8 weight:0.618087
+from:4 to:9 weight:1.41951
+from:5 to:6 weight:1.78235
+from:5 to:7 weight:3.20587
+from:5 to:8 weight:2.04019
+from:5 to:9 weight:0.951916
+from:6 to:7 weight:1.4501
+from:6 to:8 weight:1.43015
+from:6 to:9 weight:1.10829
+from:7 to:8 weight:1.98658
+from:7 to:9 weight:2.38803
+from:8 to:9 weight:1.11809
+ 2-aprox --> 1.46703
+ 1,5-aprox --> 1.17949
+опыт номер:3
+from:0 to:1 weight:0.811963
+from:0 to:2 weight:1.45004
+from:0 to:3 weight:2.49069
+from:0 to:4 weight:2.53538
+from:0 to:5 weight:0.352334
+from:0 to:6 weight:0.728842
+from:0 to:7 weight:0.668222
+from:0 to:8 weight:2.49109
+from:0 to:9 weight:1.77845
+from:1 to:2 weight:1.90652
+from:1 to:3 weight:3.16239
+from:1 to:4 weight:1.73702
+from:1 to:5 weight:1.10289
+from:1 to:6 weight:1.51538
+from:1 to:7 weight:1.42898
+from:1 to:8 weight:2.95576
+from:1 to:9 weight:2.58355
+from:2 to:3 weight:1.41277
+from:2 to:4 weight:3.50071
+from:2 to:5 weight:1.14878
+from:2 to:6 weight:1.09642
+from:2 to:7 weight:1.00958
+from:2 to:8 weight:3.60796
+from:2 to:9 weight:1.62112
+from:3 to:4 weight:4.84969
+from:3 to:5 weight:2.13854
+from:3 to:6 weight:1.8129
+from:3 to:7 weight:1.83306
+from:3 to:8 weight:3.85955
+from:3 to:9 weight:1.30532
+from:4 to:5 weight:2.83986
+from:4 to:6 weight:3.2514
+from:4 to:7 weight:3.16588
+from:4 to:8 weight:4.08934
+from:4 to:9 weight:4.31381
+from:5 to:6 weight:0.415425
+from:5 to:7 weight:0.32802
+from:5 to:8 weight:2.59471
+from:5 to:9 weight:1.49074
+from:6 to:7 weight:0.130496
+from:6 to:8 weight:2.51281
+from:6 to:9 weight:1.07574
+from:7 to:8 weight:2.61068
+from:7 to:9 weight:1.1816
+from:8 to:9 weight:2.55883
+ 2-aprox --> 1.33718
+ 1,5-aprox --> 1.11499
+опыт номер:4
+from:0 to:1 weight:0.972015
+from:0 to:2 weight:0.349723
+from:0 to:3 weight:0.811138
+from:0 to:4 weight:0.794303
+from:0 to:5 weight:0.31183
+from:0 to:6 weight:1.61144
+from:0 to:7 weight:0.813201
+from:0 to:8 weight:1.96248
+from:0 to:9 weight:2.40399
+from:1 to:2 weight:1.29883
+from:1 to:3 weight:1.35009
+from:1 to:4 weight:1.15337
+from:1 to:5 weight:1.27706
+from:1 to:6 weight:0.731906
+from:1 to:7 weight:0.926939
+from:1 to:8 weight:2.56293
+from:1 to:9 weight:3.07705
+from:2 to:3 weight:0.968964
+from:2 to:4 weight:1.02912
+from:2 to:5 weight:0.0713735
+from:2 to:6 weight:1.95843
+from:2 to:7 weight:1.1111
+from:2 to:8 weight:1.9727
+from:2 to:9 weight:2.35806
+from:3 to:4 weight:0.240182
+from:3 to:5 weight:0.897595
+from:3 to:6 weight:1.69573
+from:3 to:7 weight:0.504819
+from:3 to:8 weight:1.22934
+from:3 to:9 weight:1.72967
+from:4 to:5 weight:0.959624
+from:4 to:6 weight:1.45785
+from:4 to:7 weight:0.266608
+from:4 to:8 weight:1.40957
+from:4 to:9 weight:1.92735
+from:5 to:6 weight:1.923
+from:5 to:7 weight:1.04762
+from:5 to:8 weight:1.91148
+from:5 to:9 weight:2.30427
+from:6 to:7 weight:1.19136
+from:6 to:8 weight:2.77311
+from:6 to:9 weight:3.31284
+from:7 to:8 weight:1.6499
+from:7 to:9 weight:2.1762
+from:8 to:9 weight:0.541445
+ 2-aprox --> 1.29496
+ 1,5-aprox --> 1.19722
+опыт номер:5
+from:0 to:1 weight:0.770448
+from:0 to:2 weight:2.29562
+from:0 to:3 weight:0.857544
+from:0 to:4 weight:0.854599
+from:0 to:5 weight:1.67487
+from:0 to:6 weight:2.6214
+from:0 to:7 weight:1.63879
+from:0 to:8 weight:1.05724
+from:0 to:9 weight:0.165928
+from:1 to:2 weight:2.93159
+from:1 to:3 weight:1.11478
+from:1 to:4 weight:1.58298
+from:1 to:5 weight:2.34088
+from:1 to:6 weight:3.19142
+from:1 to:7 weight:1.63642
+from:1 to:8 weight:1.04994
+from:1 to:9 weight:0.872629
+from:2 to:3 weight:1.92517
+from:2 to:4 weight:2.0932
+from:2 to:5 weight:0.630367
+from:2 to:6 weight:0.478934
+from:2 to:7 weight:2.16647
+from:2 to:8 weight:2.2196
+from:2 to:9 weight:2.31934
+from:3 to:4 weight:1.48207
+from:3 to:5 weight:1.41289
+from:3 to:6 weight:2.11843
+from:3 to:7 weight:0.808297
+from:3 to:8 weight:0.361508
+from:3 to:9 weight:1.00522
+from:4 to:5 weight:1.48679
+from:4 to:6 weight:2.52095
+from:4 to:7 weight:2.28348
+from:4 to:8 weight:1.78703
+from:4 to:9 weight:0.716662
+from:5 to:6 weight:1.03418
+from:5 to:7 weight:1.84154
+from:5 to:8 weight:1.74571
+from:5 to:9 weight:1.6916
+from:6 to:7 weight:2.183
+from:6 to:8 weight:2.36298
+from:6 to:9 weight:2.66746
+from:7 to:8 weight:0.611069
+from:7 to:9 weight:1.79604
+from:8 to:9 weight:1.22037
+ 2-aprox --> 1.40979
+ 1,5-aprox --> 1.27468
+опыт номер:6
+from:0 to:1 weight:2.44211
+from:0 to:2 weight:0.504641
+from:0 to:3 weight:2.0422
+from:0 to:4 weight:1.18657
+from:0 to:5 weight:0.435927
+from:0 to:6 weight:1.6542
+from:0 to:7 weight:1.16898
+from:0 to:8 weight:2.17601
+from:0 to:9 weight:1.30373
+from:1 to:2 weight:1.94888
+from:1 to:3 weight:3.00103
+from:1 to:4 weight:2.05998
+from:1 to:5 weight:2.08226
+from:1 to:6 weight:0.892622
+from:1 to:7 weight:1.41521
+from:1 to:8 weight:1.91209
+from:1 to:9 weight:1.84774
+from:2 to:3 weight:1.95177
+from:2 to:4 weight:0.915078
+from:2 to:5 weight:0.180297
+from:2 to:6 weight:1.20529
+from:2 to:7 weight:0.678188
+from:2 to:8 weight:1.96756
+from:2 to:9 weight:1.13013
+from:3 to:4 weight:1.10863
+from:3 to:5 weight:1.80775
+from:3 to:6 weight:2.74823
+from:3 to:7 weight:1.82405
+from:3 to:8 weight:3.85394
+from:3 to:9 weight:3.06734
+from:4 to:5 weight:0.817273
+from:4 to:6 weight:1.66055
+from:4 to:7 weight:0.73307
+from:4 to:8 weight:2.74799
+from:4 to:9 weight:1.98314
+from:5 to:6 weight:1.37022
+from:5 to:7 weight:0.744134
+from:5 to:8 weight:2.14266
+from:5 to:9 weight:1.29714
+from:6 to:7 weight:0.928145
+from:6 to:8 weight:1.29831
+from:6 to:9 weight:0.976501
+from:7 to:8 weight:2.0799
+from:7 to:9 weight:1.40873
+from:8 to:9 weight:0.872347
+ 2-aprox --> 0.941454
+ 1,5-aprox --> 0.790742
+опыт номер:7
+from:0 to:1 weight:1.82399
+from:0 to:2 weight:2.38075
+from:0 to:3 weight:2.70779
+from:0 to:4 weight:1.7921
+from:0 to:5 weight:3.00794
+from:0 to:6 weight:1.55353
+from:0 to:7 weight:3.25446
+from:0 to:8 weight:1.23697
+from:0 to:9 weight:2.90182
+from:1 to:2 weight:0.627784
+from:1 to:3 weight:2.96488
+from:1 to:4 weight:2.94117
+from:1 to:5 weight:2.23157
+from:1 to:6 weight:2.02563
+from:1 to:7 weight:3.1981
+from:1 to:8 weight:1.10076
+from:1 to:9 weight:1.08176
+from:2 to:3 weight:2.97101
+from:2 to:4 weight:3.23854
+from:2 to:5 weight:1.92041
+from:2 to:6 weight:2.23201
+from:2 to:7 weight:3.07311
+from:2 to:8 weight:1.41566
+from:2 to:9 weight:0.702249
+from:3 to:4 weight:1.45525
+from:3 to:5 weight:1.57652
+from:3 to:6 weight:1.17333
+from:3 to:7 weight:0.661877
+from:3 to:8 weight:1.99035
+from:3 to:9 weight:3.66064
+from:4 to:5 weight:2.65861
+from:4 to:6 weight:1.0487
+from:4 to:7 weight:2.11711
+from:4 to:8 weight:1.85087
+from:4 to:9 weight:3.92218
+from:5 to:6 weight:1.74104
+from:5 to:7 weight:1.33774
+from:5 to:8 weight:1.81277
+from:5 to:9 weight:2.49594
+from:6 to:7 weight:1.70172
+from:6 to:8 weight:0.936982
+from:6 to:9 weight:2.92867
+from:7 to:8 weight:2.36419
+from:7 to:9 weight:3.72347
+from:8 to:9 weight:2.07973
+ 2-aprox --> 1.46424
+ 1,5-aprox --> 1.33668
+опыт номер:8
+from:0 to:1 weight:3.40714
+from:0 to:2 weight:0.450061
+from:0 to:3 weight:2.6227
+from:0 to:4 weight:1.11498
+from:0 to:5 weight:2.1443
+from:0 to:6 weight:0.922542
+from:0 to:7 weight:1.64987
+from:0 to:8 weight:1.55941
+from:0 to:9 weight:0.503887
+from:1 to:2 weight:3.00446
+from:1 to:3 weight:2.71921
+from:1 to:4 weight:2.83142
+from:1 to:5 weight:1.32759
+from:1 to:6 weight:2.48629
+from:1 to:7 weight:3.05778
+from:1 to:8 weight:4.93306
+from:1 to:9 weight:3.06569
+from:2 to:3 weight:2.55473
+from:2 to:4 weight:0.735779
+from:2 to:5 weight:1.71642
+from:2 to:6 weight:0.564572
+from:2 to:7 weight:1.33012
+from:2 to:8 weight:1.92953
+from:2 to:9 weight:0.168934
+from:3 to:4 weight:3.0576
+from:3 to:5 weight:2.43055
+from:3 to:6 weight:2.12925
+from:3 to:7 weight:3.64747
+from:3 to:8 weight:3.97727
+from:3 to:9 weight:2.71999
+from:4 to:5 weight:1.50865
+from:4 to:6 weight:0.932208
+from:4 to:7 weight:0.619411
+from:4 to:8 weight:2.27022
+from:4 to:9 weight:0.616688
+from:5 to:6 weight:1.25471
+from:5 to:7 weight:1.80641
+from:5 to:8 weight:3.63098
+from:5 to:9 weight:1.7583
+from:6 to:7 weight:1.5387
+from:6 to:8 weight:2.47052
+from:6 to:9 weight:0.687168
+from:7 to:8 weight:2.49377
+from:7 to:9 weight:1.18712
+from:8 to:9 weight:1.87269
+ 2-aprox --> 1.27853
+ 1,5-aprox --> 1.11885
+опыт номер:9
+from:0 to:1 weight:1.55474
+from:0 to:2 weight:2.64221
+from:0 to:3 weight:0.51684
+from:0 to:4 weight:2.37242
+from:0 to:5 weight:1.88702
+from:0 to:6 weight:0.677486
+from:0 to:7 weight:1.21751
+from:0 to:8 weight:0.887815
+from:0 to:9 weight:0.109019
+from:1 to:2 weight:1.72684
+from:1 to:3 weight:1.75775
+from:1 to:4 weight:3.03479
+from:1 to:5 weight:3.42679
+from:1 to:6 weight:1.62893
+from:1 to:7 weight:2.03774
+from:1 to:8 weight:0.683556
+from:1 to:9 weight:1.55325
+from:2 to:3 weight:2.47705
+from:2 to:4 weight:2.53443
+from:2 to:5 weight:4.12709
+from:2 to:6 weight:3.06072
+from:2 to:7 weight:2.1886
+from:2 to:8 weight:1.93965
+from:2 to:9 weight:2.57135
+from:3 to:4 weight:1.85865
+from:3 to:5 weight:1.72999
+from:3 to:6 weight:1.19107
+from:3 to:7 weight:0.716336
+from:3 to:8 weight:1.08253
+from:3 to:9 weight:0.414097
+from:4 to:5 weight:2.48053
+from:4 to:6 weight:3.04918
+from:4 to:7 weight:1.16536
+from:4 to:8 weight:2.55862
+from:4 to:9 weight:2.26584
+from:5 to:6 weight:2.18159
+from:5 to:7 weight:1.9716
+from:5 to:8 weight:2.74495
+from:5 to:9 weight:1.87506
+from:6 to:7 weight:1.89466
+from:6 to:8 weight:1.1284
+from:6 to:9 weight:0.785383
+from:7 to:8 weight:1.46259
+from:7 to:9 weight:1.10929
+from:8 to:9 weight:0.875286
+ 2-aprox --> 1.33401
+ 1,5-aprox --> 1.22472
+опыт номер:10
+from:0 to:1 weight:1.67293
+from:0 to:2 weight:3.02841
+from:0 to:3 weight:2.76075
+from:0 to:4 weight:2.29283
+from:0 to:5 weight:1.62093
+from:0 to:6 weight:2.27027
+from:0 to:7 weight:2.1494
+from:0 to:8 weight:0.822137
+from:0 to:9 weight:2.771
+from:1 to:2 weight:2.14324
+from:1 to:3 weight:1.13379
+from:1 to:4 weight:1.00642
+from:1 to:5 weight:1.73327
+from:1 to:6 weight:1.0417
+from:1 to:7 weight:0.516029
+from:1 to:8 weight:0.909555
+from:1 to:9 weight:1.43
+from:2 to:3 weight:1.74775
+from:2 to:4 weight:1.17151
+from:2 to:5 weight:1.60766
+from:2 to:6 weight:1.11659
+from:2 to:7 weight:2.30149
+from:2 to:8 weight:2.33046
+from:2 to:9 weight:0.976657
+from:3 to:4 weight:0.800352
+from:3 to:5 weight:2.26035
+from:3 to:6 weight:0.879517
+from:3 to:7 weight:0.867558
+from:3 to:8 weight:1.94792
+from:3 to:9 weight:0.771703
+from:4 to:5 weight:1.48342
+from:4 to:6 weight:0.0804539
+from:4 to:7 weight:1.13372
+from:4 to:8 weight:1.48188
+from:4 to:9 weight:0.481123
+from:5 to:6 weight:1.41288
+from:5 to:7 weight:2.19163
+from:5 to:8 weight:1.22884
+from:5 to:9 weight:1.82098
+from:6 to:7 weight:1.19736
+from:6 to:8 weight:1.46582
+from:6 to:9 weight:0.501756
+from:7 to:8 weight:1.41891
+from:7 to:9 weight:1.42841
+from:8 to:9 weight:1.96258
+ 2-aprox --> 1.52913
+ 1,5-aprox --> 1.00694
+среднее 2-приближение:1.33632
+среднее 1.5-приближение:1.13848
+среднее квадратичное 2-отклонение:0.369996
+среднее квадратичное 1.5-отклонение:0.200337

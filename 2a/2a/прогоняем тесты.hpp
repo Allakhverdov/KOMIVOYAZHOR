@@ -1,10 +1,11 @@
 //
-//  main.cpp
+//  прогоняем тесты.hpp
 //  2a
 //
-//  Created by Эдуард on 14.04.2019.
+//  Created by Эдуард on 02.05.2019.
 //  Copyright © 2019 Эдуард. All rights reserved.
 //
+#include <fstream>
 #include <cmath>
 #include <iostream>
 #include "MatrixGraph.hpp"
@@ -15,11 +16,12 @@
 #include "normal_distr.hpp"
 #include "min_way.hpp"
 #include "approxite.hpp"
-#include "прогоняем тесты.hpp"
-
-int main()
+#ifndef ________________hpp
+#define ________________hpp
+class tests
 {
-    tests new_tests;
-    new_tests.withdraw_tests();
-    return 0;
-}
+public:
+    void withdraw_tests() const;
+};
+
+#endif /* ________________hpp */

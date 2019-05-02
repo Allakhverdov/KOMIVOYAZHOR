@@ -1,10 +1,8 @@
 //
 //  normal_distr.hpp
-//  2a
-//
-//  Created by Эдуард on 14.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
+
+
+//из рандомных данных, по нормальному распределению построим полный граф
 
 #ifndef normal_distr_hpp
 #define normal_distr_hpp
@@ -15,6 +13,8 @@
 #include<vector>
 #include<iostream>
 #include <chrono>
+
+
 
 struct norm_dist
 {

@@ -1,14 +1,9 @@
 //
 //  approxite.cpp
-//  2a
-//
-//  Created by Эдуард on 28.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
 
 #include "approxite.hpp"
 
-double Kruskal (ArcGraph G, int V)     ///по ссылке?
+double Kruskal (ArcGraph G, int V)     //строим миност
 {
     double answer = 0;
     DSU forest (V);
@@ -27,7 +22,7 @@ double Kruskal (ArcGraph G, int V)     ///по ссылке?
 }
 
 
-double Euler (ArcGraph& A_G, MatrixGraph& M_G, int V)
+double Euler (ArcGraph& A_G, MatrixGraph& M_G, int V)       //находи в миносте только нечетные вершины, строим жадно мин-паросочетание
 {
     double answer = 0;
     DSU forest (V);

@@ -4,7 +4,7 @@
 //
 
 #include"normal_distr.hpp"
-std::vector<std::pair<double, double>> norm_dist::points (int N)
+std::vector<std::pair<double, double>> norm_dist::points (int N)        //генерируем точки для будущего графа
 {
     int time = std::chrono::time_point_cast<std::chrono::milliseconds>(std::chrono::steady_clock::now()).time_since_epoch().count();
     std::mt19937 genX(time);
@@ -19,14 +19,16 @@ std::vector<std::pair<double, double>> norm_dist::points (int N)
     }
     return coordinats;
 }
+
 double norm_dist::build_edge(int i_point, int j_point, std::vector<std::pair<double, double>>& coordinats)
 {
-    double i_x = coordinats[i_point].first;
+    double i_x = coordinats[i_point].first;                             //по каждой паре точек создаём ребро между ними
     double i_y = coordinats[i_point].second;
     double j_x = coordinats[j_point].first;
     double j_y = coordinats[j_point].second;
     return sqrt((i_x - j_x)*(i_x - j_x) + (i_y - j_y)*(i_y - j_y));
 }
+
 ArcGraph norm_dist::make_ArcGraph (int V)                   //создаём на основе сгенерированных данных ArcGraph
 {
     int E = V * (V - 1) / 2;

@@ -1,10 +1,8 @@
 //
 //  min_way.hpp
-//  2a
-//
-//  Created by Эдуард on 14.04.2019.
-//  Copyright © 2019 Эдуард. All rights reserved.
-//
+
+
+//найдём точный путь комивояжера
 
 #ifndef min_way_hpp
 #define min_way_hpp
