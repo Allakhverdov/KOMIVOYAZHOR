@@ -1,0 +1,172 @@
+#include<iostream>
+#include<vector>
+#include<queue>
+
+struct pair
+{
+    pair(int to, int weight) : to(to), weight(weight){}
+    pair() = default;
+    int to = 0;
+    int weight = 0;
+};
+
+struct ListGraph
+{
+    ListGraph(size_t VerticesCount);
+    ~ListGraph() = default;
+    void AddEdge(int from, int to, int weight);
+    int VCount() const;
+    void GetAllGraph(std::vector<std::vector<pair>>& Edges) const;
+private:
+    std::vector<std::vector<pair>> NextVert;
+};
+
+
+ListGraph::ListGraph(size_t VerticesCount)
+{
+    NextVert.resize(VerticesCount);
+}
+
+int ListGraph::VCount() const
+{
+    return NextVert.size();
+}
+
+void ListGraph::AddEdge(int from, int to, int weight)
+{
+    pair edge_to(to, weight);
+    pair edge_from(from, 0);
+    NextVert[from].push_back(edge_to);
+    NextVert[to].push_back(edge_from);
+}
+
+void ListGraph::GetAllGraph(std::vector<std::vector<pair>>& Edges) const
+{
+    Edges = NextVert;
+}
+
+int BFS(std::vector<std::vector<pair>>& Graph, int inf)
+{
+    int start = 0;
+    int end = Graph.size() - 1;
+    std::vector<int>Parent(Graph.size(), -1);
+    std::vector<int>ParentWeight(Graph.size(), 0);
+    std::vector<bool>Used(Graph.size(), false);
+    std::queue<int>Queue;
+    Queue.push(start);
+    Used[start] = true;
+    bool have_way = false;
+    while(!Queue.empty())
+    {
+        int next_v = Queue.front();
+        Queue.pop();
+        for(int i = 0; i < Graph[next_v].size(); ++i)
+        {
+            int child = Graph[next_v][i].to;
+            int weight = Graph[next_v][i].weight;
+            if (child == end && weight > 0)
+            {
+                Parent[child] = next_v;
+                ParentWeight[child] = weight;
+                have_way = true;
+                break;
+            }
+            if(Used[child] == false && weight > 0)
+            {
+                Queue.push(child);
+                Used[child] = true;
+                Parent[child] = next_v;
+                ParentWeight[child] = weight;
+            }
+        }
+        if(have_way == true){ break; }
+    }
+    int min_flow = inf;
+    if(have_way == true)
+    {
+        int now_v = end;
+        while(true)
+        {
+            int parent = Parent[now_v];
+            int weight = ParentWeight[now_v];
+            if(weight < min_flow)
+            {
+                min_flow = weight;
+            }
+            if(parent == start)
+            {
+                now_v = end;
+                break;
+            }
+            now_v = parent;
+        }
+        if(min_flow > 0)
+        {
+            while(true)
+            {
+                int parent = Parent[now_v];
+                for(int i = 0; i < Graph[parent].size(); ++i)
+                {
+                    if(Graph[parent][i].to == now_v)
+                    {
+                        Graph[parent][i].weight -= min_flow;
+                    }
+                }
+                for(int i = 0; i < Graph[now_v].size(); ++i)
+                {
+                    if(Graph[now_v][i].to == parent)
+                    {
+                        Graph[now_v][i].weight += min_flow;
+                    }
+                }
+                if(parent == start)
+                {
+                    break;
+                }
+                now_v = parent;
+            }
+        }
+    }
+    return min_flow;
+}
+
+int Edmonds_Carp(ListGraph& G , int inf)
+{
+    std::vector<std::vector<pair>> Graph;
+    G.GetAllGraph(Graph);
+    int min_flow = inf;
+    int flow = 0;
+    while(true)
+    {
+        min_flow = BFS(Graph, inf);
+        if(min_flow == inf)
+        {
+            break;
+        }
+        else
+        {
+            flow += min_flow;
+        }
+    }
+    return flow;
+}
+
+int main()
+{
+    int V = 0;
+    int E = 0;
+    int inf = 0;
+    std::cin >> V >> E;
+    ListGraph G(V);
+    for(int i = 0; i < E; ++i)
+    {
+        int from = 0;
+        int to = 0;
+        int weight = 0;
+        std::cin >> from >> to >> weight;
+        G.AddEdge(from - 1, to - 1, weight);
+        inf += 2 * weight;
+    }
+    std::cout << Edmonds_Carp(G , inf);
+    return 0;
+}
