@@ -39,10 +39,10 @@ void ListGraph::AddEdge(int from, int to, int weight)
     NextVert[to].push_back(edge_from);
 }
 
-void ListGraph::GetAllGraph(std::vector<std::vector<pair>>& Edges) const
+void ListGraph::GetAllGraph(std::vector<std::vector<pair>>& Edges) const 
 {
-    Edges = NextVert;
-}
+    Edges = NextVert;           //ним не хочется метять начальный граф, но хочется работать с его ребрами, поэтому этот метод  
+}                               //создаё нам копию с которой мы потом работаем
 
 struct Public_ListGraph : public ListGraph
 {
@@ -80,7 +80,7 @@ void Public_ListGraph::ChengeWeight(int days, int N)
 }
 ////////////////////
 ///////////////////
-int BFS(std::vector<std::vector<pair>>& Graph, int inf)
+int BFS(std::vector<std::vector<pair>>& Graph, int inf)     //обычный бфс для Edmonds_Carp
 {
     int start = 0;
     int end = Graph.size() - 1;
@@ -165,7 +165,7 @@ int BFS(std::vector<std::vector<pair>>& Graph, int inf)
     return min_flow;
 }
 
-int Edmonds_Carp(Public_ListGraph& P_G , int inf)
+int Edmonds_Carp(Public_ListGraph& P_G , int inf)   //ищем максимальный поток
 {
     std::vector<std::vector<pair>> Graph;
     P_G.GetAllGraph(Graph);
@@ -186,7 +186,7 @@ int Edmonds_Carp(Public_ListGraph& P_G , int inf)
     return flow;
 }
 
-int Bin_Search(Public_ListGraph& P_G , int inf, int max_days, int N)
+int Bin_Search(Public_ListGraph& P_G , int inf, int max_days, int N)    //будем считать что минимум дней=0, максимум=max_days
 {
     int left = 0;
     int right = max_days; // Левая и правая граница поиска
@@ -213,41 +213,67 @@ int Bin_Search(Public_ListGraph& P_G , int inf, int max_days, int N)
 
 int main()
 {
-    int N = 0;
-    int M = 0;
-    int inf = 0;
-    int max_days = 0;
+    int N = 0;                  //число человек
+    int M = 0;                  //число видов чаём
+    int inf = 0;                //оченим бесконечность/
+    int max_days = 0;           //количество дней которое точно больше максимального количества
     std::cin >> N >> M;
     int V = N + M + 2;
     ListGraph G(V);
-    int start = 0;
-    int end = V - 1;
-    int days = 1;
-    for(int i = 1; i < N + 1; ++i)
+    int start = 0;                          //исток
+    int end = V - 1;                        //вток
+    int days = 1;                            //изначально считаем что можем продержаться 1 день
+    for(int i = 1; i < N + 1; ++i)           //заносим вершины соответствующие людям
     {
         G.AddEdge(start, i, days);
     }
-    for(int i = N + 1; i < V - 1; ++i)
+    for(int i = N + 1; i < V - 1; ++i)      //заносим вершины соответствующие сортам чая
     {
         int a_i = 0;
         std::cin >> a_i;
-        max_days += a_i;
+        max_days += a_i;                
         G.AddEdge(i, end, a_i);
     }
-    for(int i = 1; i < N + 1; ++i)
+    for(int i = 1; i < N + 1; ++i)              
     {
-        int numbers = 0;
+        int numbers = 0;                        //количество любимых сортов у i-го человека
         std::cin >> numbers;
         for(int j = 0; j < numbers; ++j)
         {
             int favorite_tea = 0;
-            std::cin >> favorite_tea;
-            G.AddEdge(i, favorite_tea + N, days);
+            std::cin >> favorite_tea;                   //считываем вид чая
+            G.AddEdge(i, favorite_tea + N, days);       //проводим ребра от человека к любимым сортам чая
         }
     }
-    inf = max_days * 2;
-    max_days = max_days / N + 1;
-    Public_ListGraph P_G(&G);
-    std::cout << Bin_Search(P_G, inf, max_days, N);
+    inf = max_days * 2;                 
+    max_days = max_days / N + 1;                        //дней не может быть больше чем кол-вл чайных покетиков/кол-во людей
+    Public_ListGraph P_G(&G);   
+    std::cout << Bin_Search(P_G, inf, max_days, N);    //вместо линейного прохода ищем нужное число дней бинпоиском по ответу 
     return 0;
 }
+
+
+
+//Строим сеть следующим образом：
+ 
+//1.исток
+ 
+//2.вершины , соответствующие людям
+ 
+//3.вершины, соответствующие сортам чая
+ 
+//4.Вток
+ 
+//Предположим, что все могут пить пить чай n дней подряд
+ 
+//Тогда проведём из истока к каждому человеку ребро веса n
+ 
+//Из каждого человека в излюбленные виды чая по ребру веса n
+ 
+//А из каждого чая в вток количество порций этого чая
+
+//Тогда можно доказать, что если максимальный поток равен n умножить на число людей, то можно прожить n дней
+
+//оценим число дней (max_days) превосходящее максимальное 
+
+//и воспользуемся бинпоиском по ответу
